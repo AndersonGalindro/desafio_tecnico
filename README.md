@@ -32,4 +32,5 @@ Deverão ser criados testes unitários
 Publicar o código em repositório público
 _______________________________
 
-### Existe uma collection, titulada de "desafio_tecnico.postman_collection.json", onde o mesmo pode ser baixado e usado juntamente com a aplicação.
+#### Existe uma collection, titulada de "desafio_tecnico.postman_collection.json", onde o mesmo pode ser baixado e usado juntamente com a aplicação.
+#### A publicar o código em repositório público não será possível, já que a aplicação usa o H2
